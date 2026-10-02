@@ -838,7 +838,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [@lazarv/react-server](https://github.com/lazarv/react-server) - A React meta-framework.
 - [WXT](https://github.com/wxt-dev/wxt) - Framework for building web extensions, with the same DX as Nuxt.
 - [Revili](https://github.com/revilijs/revili) - A command and GUI integration tool.
-- [seedcord](https://github.com/seedcord/seedcord) - TypeScript framework for Discord bots that wires and types commands, components, gates, and events on top of `discord.js`, for gateway and HTTP.
+- [seedcord](https://github.com/seedcord/seedcord) - TypeScript framework for making Discord bots, typed end to end. It works both over the gateway and with HTTP interactions.
 
 ### Apps/Websites
 
